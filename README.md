@@ -1,10 +1,4 @@
 ## 💫 About Me:
-
-<!--
-**NethalaNikhil/NethalaNikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 💫 About Me:
 🔭 I’m currently working on :Full-stack Java projects using Spring Boot and JPA, and integrating DevOps practices like version control and containerization with Docker.
 👯 I’m looking to collaborate on :Java full-stack development projects and DevOps-related tasks, such as automating deployment pipelines and containerizing applications using Docker.
@@ -15,4 +9,7 @@ Here are some ideas to get you started:
 
 💻 Tech Stack:
 CSS3 HTML5 Java JavaScript Python AWS Next JS Vite Apache Tomcat Postgres GitHub
+
+<!--
+**NethalaNikhil/NethalaNikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
